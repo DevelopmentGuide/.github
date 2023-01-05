@@ -1,90 +1,19 @@
-# [ProjectTutorials](https://github.com/topics/project-tutorial)
+## <img src="https://avatars.githubusercontent.com/u/108847584?s=200&v=4" width="50" height="50"/> ProjectTutorials
+<br/>
 
-------------------------------------------
-    
-## Content
+## [<img src="https://avatars.githubusercontent.com/u/119154961" width="50" height="50"/> Self-Generator](https://github.com/Self-Generator)
+<br/>
 
-### [CSharp](#csharp-1)
-### [JavaScript](#javascript-1)
-### [References](#references-1)
-### [Demo](#demo-1)
-### [User Interface](#user-interface-1)
-### [Templates](#templates-1)
-    
-------------------------------------------
+## [<img src="https://avatars.githubusercontent.com/u/122027723?s=200&v=4" width="50" height="50"/> pro-start](https://github.com/Pro-Start)
+<br/>
+<br/>
+<br/>
+<br/>
 
-## CSharp
+> ## [project-tutorials-repository](https://github.com/topics/project-tutorials-repository)
 
-### [cSharpTutorial](https://github.com/ProjectTutorials/cSharpTutorial)
-<a href="https://projecttutorials.github.io/cSharpTutorial/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183105983-1c4e9a76-f723-416c-b284-e7507965007f.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=cSharpTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-### [cSharpConcepts](https://github.com/ProjectTutorials/cSharpConcepts)
-<a href="https://projecttutorials.github.io/cSharpConcepts/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183105983-1c4e9a76-f723-416c-b284-e7507965007f.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=cSharpConcepts&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-### [cSharpDesignPatterns](https://github.com/ProjectTutorials/cSharpDesignPatterns)
-<a href="https://projecttutorials.github.io/cSharpDesignPatterns/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183105983-1c4e9a76-f723-416c-b284-e7507965007f.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=cSharpDesignPatterns&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-
-
-## JavaScript
-
-### [javascriptConcepts](https://github.com/ProjectTutorials/javaScriptConcepts)
-<a href="https://projecttutorials.github.io/javaScriptConcepts/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183106267-ac9ae498-e6ed-4b0c-a192-530c1451a748.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=javaScriptConcepts&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-### [javascriptDOM](https://github.com/ProjectTutorials/javascriptDOM)
-<a href="https://projecttutorials.github.io/javascriptDOM/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183106267-ac9ae498-e6ed-4b0c-a192-530c1451a748.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=javascriptDOM&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-### [javascriptReferences](https://github.com/ProjectTutorials/javascriptReferences)
-<a href="https://projecttutorials.github.io/javascriptReferences/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183106267-ac9ae498-e6ed-4b0c-a192-530c1451a748.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=javascriptReferences&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-### [javascriptAlgorithms](https://github.com/ProjectTutorials/javascriptAlgorithms)
-<a href="https://projecttutorials.github.io/javascriptAlgorithms/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183106267-ac9ae498-e6ed-4b0c-a192-530c1451a748.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=javascriptAlgorithms&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-### [javascriptQuestions](https://github.com/ProjectTutorials/javascriptQuestions)
-<a href="https://projecttutorials.github.io/javascriptQuestions/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183106267-ac9ae498-e6ed-4b0c-a192-530c1451a748.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=javascriptQuestions&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-
-
-## References
-
-### [freeProgrammingBooks](https://github.com/ProjectTutorials/freeProgrammingBooks)
-<a href="https://projecttutorials.github.io/freeProgrammingBooks/" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=freeProgrammingBooks&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
-
-
-
-## Demo 
-
-### [reactTutorial](https://github.com/ProjectTutorials/reactTutorial)
-<a href="https://projecttutorials.github.io/reactTutorial/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183105199-75e6978c-7ad9-4a3e-b499-1de6f764b50d.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=reactTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
+<details>
+<summary>repository</summary>
 
 ### [firebaseFileUpload](https://github.com/ProjectTutorials/firebaseFileUpload)
 <a href="https://projecttutorials.github.io/firebaseFileUpload/" target="_blank">
@@ -98,7 +27,66 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=mernBasics&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
 </a>
 
+</details>
+
+---
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+> ## [project-tutorials-api](https://github.com/topics/project-tutorials-api)
+
+<details>
+<summary>Node</summary>
+
+### [node-API](https://github.com/ProjectTutorials/node-API)
+<a href="https://projecttutorials.github.io/node-API/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/210846586-341d8795-faaa-4292-bbbd-08a1ef93b91a.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=node-API&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+</details>
+
+<details>
+<summary>JavaScript</summary>
+
+### [xhr-CRUD](https://github.com/ProjectTutorials/xhr-CRUD)
+<a href="https://github.com/ProjectTutorials/xhr-CRUD/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/210846538-b00622a6-0bf1-4540-b9fb-1709b2d5d613.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=xhr-CRUD&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+### [fetch-CRUD](https://github.com/ProjectTutorials/fetch-CRUD)
+<a href="https://github.com/ProjectTutorials/fetch-CRUD/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/210846495-2c9d7f04-785b-4f9a-a580-d4c094e8f3a4.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=fetch-CRUD&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+### [ajax-CRUD](https://github.com/ProjectTutorials/ajax-CRUD)
+<a href="https://github.com/ProjectTutorials/ajax-CRUD/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/210846444-102352d1-fca3-497f-859f-60bf454f504c.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=ajax-CRUD&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+</details>
+
+---
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+> ## [project-tutorials-archive](https://github.com/topics/project-tutorials-archive)
+
+
+<details>
+<summary>Languages</summary>
+
 ### [javaTutorial](https://github.com/ProjectTutorials/javaTutorial)
+
 <a href="https://projecttutorials.github.io/javaTutorial/" target="_blank">
 <img src="https://user-images.githubusercontent.com/109010929/183104279-a73f92da-bd4a-4170-9b94-a64886fefdcd.png" width="150" height="150"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=javaTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
@@ -110,21 +98,36 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=pythonTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
 </a>
 
+### [cSharpTutorial](https://github.com/ProjectTutorials/cSharpTutorial)
+<a href="https://projecttutorials.github.io/cSharpTutorial/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/183105983-1c4e9a76-f723-416c-b284-e7507965007f.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=cSharpTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+### [sqlTutorial](https://github.com/ProjectTutorials/sqlTutorial)
+<a href="https://projecttutorials.github.io/sqlTutorial/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/210845332-777c4d30-b6d2-43a9-bff9-033c76ff9a88.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=sqlTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+### [jwt.netTutorial](https://github.com/ProjectTutorials/jwt.netTutorial)
+<a href="https://projecttutorials.github.io/jwt.netTutorial/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/210845460-c55060fd-351b-48e8-a39f-c764387ad85d.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=jwt.netTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
 ### [phpTutorial](https://github.com/ProjectTutorials/phpTutorial)
 <a href="https://projecttutorials.github.io/phpTutorial/" target="_blank">
 <img src="https://user-images.githubusercontent.com/109010929/183104517-9efec89c-5d26-46ee-978f-dcad12563dde.png" width="150" height="150"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=phpTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
 </a>
 
+</details>
 
 
-## User Interface
 
-### [sassTutorial](https://github.com/ProjectTutorials/sassTutorial)
-<a href="https://projecttutorials.github.io/sassTutorial/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183104134-f45e4fe8-db5e-48b1-9148-0827a70e8cb3.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=sassTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
-</a>
+<details>
+<summary>User Interface</summary>
 
 ### [bootstrapTutorial](https://github.com/ProjectTutorials/bootstrapTutorial)
 <a href="https://projecttutorials.github.io/bootstrapTutorial/" target="_blank">
@@ -132,14 +135,35 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=bootstrapTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
 </a>
 
+### [sassTutorial](https://github.com/ProjectTutorials/sassTutorial)
+<a href="https://projecttutorials.github.io/sassTutorial/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/183104134-f45e4fe8-db5e-48b1-9148-0827a70e8cb3.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=sassTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+</details>
 
 
-## Templates
 
-### [reactTypescriptTutorial](https://github.com/ProjectTutorials/reactTypescriptTutorial)
-<a href="https://projecttutorials.github.io/reactTypescriptTutorial/" target="_blank">
-<img src="https://user-images.githubusercontent.com/109010929/183105477-0478ba9f-1dc3-421f-ac05-04012851d803.png" width="150" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=reactTypescriptTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+<details>
+<summary>Templates</summary>
+
+### [reactTutorial](https://github.com/ProjectTutorials/reactTutorial)
+<a href="https://projecttutorials.github.io/reactTutorial/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/183105199-75e6978c-7ad9-4a3e-b499-1de6f764b50d.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=reactTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+### [firebaseTutorial](https://github.com/ProjectTutorials/firebaseTutorial)
+<a href="https://projecttutorials.github.io/firebaseTutorial/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/183105811-b65ca52c-ff0f-4b34-b5aa-42cf2350e0e8.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=firebaseTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
+</a>
+
+### [djangoTutorial](https://github.com/ProjectTutorials/djangoTutorial)
+<a href="https://projecttutorials.github.io/djangoTutorial/" target="_blank">
+<img src="https://user-images.githubusercontent.com/109010929/210845155-4c418012-c979-4fb7-84e2-d48c80129eac.png" width="150" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=djangoTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
 </a>
 
 ### [svelteTutorial](https://github.com/ProjectTutorials/svelteTutorial)
@@ -159,3 +183,4 @@
 <img src="https://user-images.githubusercontent.com/109010929/183105036-9960a6ec-6ac2-4c31-87cf-5116f0fe0417.png" width="150" height="150"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=angularTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49"/>
 </a>
+</details>
