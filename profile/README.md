@@ -1,5 +1,8 @@
 # Welcome to Project-Tutorials
-We try to build innovative and easy-to-use open-source apps that matter.
+We are dedicated to helping individuals learn programming through code snippets, templates, and engaging projects. 
+
+Explore the [topics](#topics) to access resources that will empower you on your coding journey. Whether you're a beginner or an experienced developer, you'll find the tools and knowledge here to enhance your programming skills and build exciting projects
+
 
 ### Topics
 
@@ -173,3 +176,5 @@ We try to build innovative and easy-to-use open-source apps that matter.
 <img src="https://user-images.githubusercontent.com/109010929/183105036-9960a6ec-6ac2-4c31-87cf-5116f0fe0417.png" width="100" height="100"/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ProjectTutorials&repo=angularTutorial&bg_color=f8fff5&title_color=005a80&text_color=4d4b49" height="100"/>
 </a>
+
+### THE ORGANIZATION HAS BEEN DEPRICATED AS OF `OCTOBER-2023`
